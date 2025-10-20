@@ -76,9 +76,3 @@ The workflow includes:
 ```bash
 git clone https://github.com/SNEH-17PATEL/medical-insurance-cost-prediction.git
 cd medical-insurance-cost-prediction
-
-## 🪪 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-
