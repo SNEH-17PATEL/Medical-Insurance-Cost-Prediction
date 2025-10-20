@@ -74,8 +74,8 @@ The workflow includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SNEH-17PATEL/medical-insurance-cost-prediction.git
-cd medical-insurance-cost-prediction
+git clone https://github.com/SNEH-17PATEL/Medical-Insurance-Cost-Prediction.git
+cd Medical-Insurance-Cost-Prediction
 ```
 
 ### 2. Install Dependencies
