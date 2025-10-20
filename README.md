@@ -76,3 +76,12 @@ The workflow includes:
 ```bash
 git clone https://github.com/SNEH-17PATEL/medical-insurance-cost-prediction.git
 cd medical-insurance-cost-prediction
+```
+
+### 2. Install Dependencies
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+### 3. Add Dataset
+Place the `insurance.csv` file in the project directory.
